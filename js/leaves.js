@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     for (let i = 0; i < leafCount; i++) {
         const leaf = document.createElement("img");
-        leaf.src = "images/dogpaw.png";
+        leaf.src = "images/dogpaw2.png";
         leaf.style.position = "fixed"; // Fixed position
         leaf.style.top = `${Math.random() * window.innerHeight}px`;
         leaf.style.left = `${window.innerWidth + Math.random() * 100}px`;

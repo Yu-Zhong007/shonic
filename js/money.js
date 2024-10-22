@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to create and animate a money image
     function createAndAnimateMoney() {
         const img = document.createElement('img');
-        img.src = 'images/dogpaw.png';
+        img.src = 'images/dogpaw2.png';
         img.style.position = 'absolute';
         img.style.maxWidth = '130px';
         img.style.height = 'auto';
